@@ -1,0 +1,44 @@
+{
+  "name": "react-native-navigation-wrapper",
+  "version": "2.0.0",
+  "description": "Navigation Wrapper for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zobeirhamid/react-native-navigation-wrapper.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-vector-icons": "*",
+    "react-native-magic-move": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-native": "^3.5.0",
+    "flow-bin": "^0.86.0",
+    "prettier": "^1.15.2",
+    "prettier-eslint": "^8.8.2"
+  },
+  "keywords": [
+    "react-native",
+    "navigation",
+    "wrapper"
+  ],
+  "author": "Zobeir Hamid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zobeirhamid/react-native-navigation-wrapper/issues"
+  },
+  "homepage": "https://github.com/zobeirhamid/react-native-navigation-wrapper"
+}
